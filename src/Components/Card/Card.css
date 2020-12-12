@@ -1,0 +1,35 @@
+body {
+    background-color:rgba(0,0,0, 0.7);
+    margin: 0;
+}
+
+.makeStyles-root-10 {
+    margin: 5px;
+}
+.MuiTypography-body1 {
+    text-align: justify;
+}
+
+.MuiTypography-body2 {
+    text-align: justify;
+    overflow: hidden;
+    height: 2.5rem;
+}
+
+span.MuiTypography-h5 {
+    font-size: 1.2rem;
+}
+
+.MuiCardHeader-root {
+    height: 8rem;
+    overflow: hidden;
+}
+
+.MuiGrid-grid-sm-12 {
+    color: white;
+    height: fit-content;
+    margin: auto;
+    text-align: center;
+    font-size: 8vw;
+    font-family: 'Times New Roman', Times, serif;
+}
